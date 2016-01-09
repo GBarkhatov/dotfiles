@@ -11,3 +11,5 @@ PS1='[\u@\h \W]\$ '
 if [[ -f /etc/bash_completion ]]; then
 /etc/bash_completion
 fi
+
+alias wstorm=~/bin/WebStorm-143.1559.5/bin/webstorm.sh

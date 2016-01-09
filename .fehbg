@@ -1,0 +1,2 @@
+#!/bin/sh
+feh  --bg-scale '/home/gbarkhatov/Pictures/Wallpapers/NewSunset (17).jpg' 
