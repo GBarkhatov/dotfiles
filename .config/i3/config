@@ -31,7 +31,8 @@ font pango:Droid Sans Mono 10
 floating_modifier $mod
 
 # start a terminal
-bindsym $mod+Return exec i3-sensible-terminal
+#bindsym $mod+Return exec i3-sensible-terminal
+bindsym $mod+Return exec --no-startup-id terminator
 
 # kill focused window
 bindsym $mod+Shift+q kill
@@ -221,9 +222,9 @@ bindcode 148 exec --no-startup-id galculator
 bindcode ctrl+$mod+51 exec --no-startup-id "terminator -e vim"
 bindcode ctrl+$mod+35 exec --no-startup-id subl3
 bindcode ctrl+$mod+48 exec --no-startup-id thunar
-bindcode ctrl+$mod+22 exec google-chrome-stable
-bindsym ctrl+$mod+l exec i3lock -c 333333
-bindsym ctrl+Shift+Escape exec xfce4-taskmanager
+bindcode ctrl+$mod+22 exec --no-startup-id google-chrome-stable
+bindsym ctrl+$mod+l exec --no-startup-id i3lock -c 333333
+bindsym ctrl+Shift+Escape exec --no-startup-id xfce4-taskmanager
 
 # Pulse Audio controls
 bindsym XF86AudioRaiseVolume exec "pactl set-sink-volume 0 +10%; pkill -RTMIN+1 i3blocks"
