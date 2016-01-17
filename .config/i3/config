@@ -133,7 +133,9 @@ bindsym $mod+Shift+c reload
 # restart i3 inplace (preserves your layout/session, can be used to upgrade i3)
 bindsym $mod+Shift+r restart
 # exit i3 (logs you out of your X session)
-bindsym $mod+Shift+e exec "i3-nagbar -t warning -m 'You pressed the exit shortcut. Do you really want to exit i3? This will end your X session.' -b 'Yes, exit i3' 'i3-msg exit'"
+#bindsym $mod+Shift+e exec "i3-nagbar -t warning -m 'You pressed the exit shortcut. Do you really want to exit i3? This will end your X session.' -b 'Yes, exit i3' 'i3-msg exit'"
+bindsym $mod+Shift+e exec --no-startup-id "/home/gbarkhatov/.config/i3/./exitscript.sh"
+
 
 # resize window (you can also use the mouse for that)
 mode "resize" {
@@ -211,7 +213,7 @@ exec --no-startup-id xrandr --output LVDS1 --primary
 #exec --no-startup-id "pactl set-sink-volume 0 100%"
 #exec --no-startup-id "bash /home/gbarkhatov/.config/i3/randomwall.sh"
 exec --no-startup-id "/home/gbarkhatov/.config/i3/./randomwall.sh"
-exec --no-startup-id redshift
+exec --no-startup-id redshifti
 exec --no-startup-id dropbox
 #exec --no-startup-id "xbacklight -set 30"
 exec --no-startup-id "transmission-gtk --minimized"
@@ -223,7 +225,8 @@ bindcode ctrl+$mod+51 exec --no-startup-id "terminator -e vim"
 bindcode ctrl+$mod+35 exec --no-startup-id subl3
 bindcode ctrl+$mod+48 exec --no-startup-id thunar
 bindcode ctrl+$mod+22 exec --no-startup-id google-chrome-stable
-bindsym ctrl+$mod+l exec --no-startup-id i3lock -c 333333
+#bindsym ctrl+$mod+l exec --no-startup-id i3lock -c 333333
+bindsym ctrl+$mod+l exec --no-startup-id i3lock-wrapper
 bindsym ctrl+Shift+Escape exec --no-startup-id xfce4-taskmanager
 
 # Pulse Audio controls
