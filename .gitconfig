@@ -1,0 +1,7 @@
+[user]
+	name = Govard Barkhatov
+	email = gbarkhatov@gmail.com
+[core]
+	editor = vim
+[push]
+	default = simple
