@@ -96,7 +96,8 @@ bindsym $mod+a focus parent
 #bindsym $mod+d focus child
 
 #workspace names
-set $workspace1 "1 "
+#set $workspace1 "1 "
+set $workspace1 "1 "
 set $workspace2 "2 "
 set $workspace3 "3 "
 set $workspace4 "4 "
@@ -224,7 +225,8 @@ bindcode 148 exec --no-startup-id galculator
 bindcode ctrl+$mod+51 exec --no-startup-id "terminator -e vim"
 bindcode ctrl+$mod+35 exec --no-startup-id subl3
 bindcode ctrl+$mod+48 exec --no-startup-id thunar
-bindcode ctrl+$mod+22 exec --no-startup-id google-chrome-stable
+#bindcode ctrl+$mod+22 exec --no-startup-id google-chrome-stable
+bindcode ctrl+$mod+22 exec --no-startup-id firefox-aurora
 #bindsym ctrl+$mod+l exec --no-startup-id i3lock -c 333333
 bindsym ctrl+$mod+l exec --no-startup-id i3lock-wrapper
 bindsym ctrl+Shift+Escape exec --no-startup-id xfce4-taskmanager
@@ -262,6 +264,8 @@ for_window [title="galculator"] floating enable
 
 #Assigns, use "xprop", WM_CLASS(STRING)
 assign [class="google-chrome"] $workspace1
+assign [class="Navigator"] $workspace1
+assign [class="Firefox"] $workspace1
 assign [class="subl3"] $workspace2
 assign [class="Subl3"] $workspace2
 assign [class="vlc"] $workspace6
