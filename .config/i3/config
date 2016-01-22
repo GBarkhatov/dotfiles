@@ -222,8 +222,8 @@ exec --no-startup-id "transmission-gtk --minimized"
 # Bindsyms, bindcodes
 # use "xmodmap -pke" or "xev"
 bindcode 148 exec --no-startup-id galculator
-bindcode ctrl+$mod+51 exec --no-startup-id "terminator -e vim"
-bindcode ctrl+$mod+35 exec --no-startup-id subl3
+bindcode ctrl+$mod+35 exec --no-startup-id "terminator -e vim"
+bindcode ctrl+$mod+51 exec --no-startup-id subl3
 bindcode ctrl+$mod+48 exec --no-startup-id pcmanfm
 #bindcode ctrl+$mod+22 exec --no-startup-id google-chrome-stable
 bindcode ctrl+$mod+22 exec --no-startup-id firefox-aurora
