@@ -12,6 +12,6 @@
   <property name="tree-icon-size" type="string" value="THUNAR_ICON_SIZE_SMALLEST"/>
   <property name="last-show-hidden" type="bool" value="false"/>
   <property name="last-window-width" type="int" value="681"/>
-  <property name="last-window-height" type="int" value="344"/>
+  <property name="last-window-height" type="int" value="715"/>
   <property name="last-window-maximized" type="bool" value="false"/>
 </channel>

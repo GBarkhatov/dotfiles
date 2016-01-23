@@ -45,6 +45,7 @@
         <value type="string" value="vlc"/>
         <value type="string" value="transmission"/>
         <value type="string" value="апплет networkmanager"/>
+        <value type="string" value="thunar"/>
       </property>
       <property name="show-frame" type="bool" value="false"/>
       <property name="size-max" type="uint" value="21"/>
