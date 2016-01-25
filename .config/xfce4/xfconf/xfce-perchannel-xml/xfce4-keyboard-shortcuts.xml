@@ -37,7 +37,7 @@
       <property name="&lt;Primary&gt;&lt;Alt&gt;Return" type="string" value="terminator"/>
       <property name="&lt;Primary&gt;&lt;Alt&gt;bracketright" type="string" value="terminator -x vim"/>
       <property name="&lt;Primary&gt;&lt;Alt&gt;apostrophe" type="string" value="thunar"/>
-      <property name="&lt;Primary&gt;&lt;Alt&gt;BackSpace" type="string" value="firefox-aurora"/>
+      <property name="&lt;Primary&gt;&lt;Alt&gt;BackSpace" type="string" value="google-chrome-stable"/>
     </property>
   </property>
   <property name="xfwm4" type="empty">
