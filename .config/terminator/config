@@ -5,7 +5,7 @@
   [[default]]
     [[[child1]]]
       parent = window0
-      profile = Solarized Dark
+      profile = default
       type = Terminal
     [[[window0]]]
       parent = ""
@@ -13,13 +13,6 @@
 [plugins]
 [profiles]
   [[default]]
-    background_darkness = 0.9
-    background_image = None
-    background_type = transparent
-    cursor_shape = underline
-    font = Droid Sans Mono for Powerline 11
-    use_system_font = False
-  [[Solarized Dark]]
     background_color = "#001e27"
     background_image = None
     cursor_color = "#708284"
