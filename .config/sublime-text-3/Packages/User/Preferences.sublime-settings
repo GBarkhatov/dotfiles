@@ -2,6 +2,7 @@
 	"color_scheme": "Packages/Darkula Color Scheme/darkula.tmTheme",
 	"ignored_packages":
 	[
+		"Solarized Color Scheme",
 		"Vintage"
 	],
 	"tab_size": 2,
