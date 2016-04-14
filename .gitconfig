@@ -2,7 +2,7 @@
 	name = Govard Barkhatov
 	email = gbarkhatov@gmail.com
 [core]
-	editor = vim
+	editor = nano
 [push]
   default = simple
 [alias]  
