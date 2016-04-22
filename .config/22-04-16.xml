@@ -1,0 +1,1077 @@
+<background>
+  <!-- Wallpaper definition file. Generated on Пт апр 22 14:32:40 VLAT 2016 by genWallGnome3.sh -->
+  <starttime>
+    <year>2000</year>
+    <month>01</month>
+    <day>01</day>
+    <hour>00</hour>
+    <minute>00</minute>
+    <second>00</second>
+  </starttime>
+<static>
+  <duration>1795</duration>
+  <file>/home/gbarkhatov/Dropbox/img/Wallpapers/arturodonate_7am_sunrise.jpg</file>
+</static>
+<transition>
+  <duration>5</duration>
+  <from>/home/gbarkhatov/Dropbox/img/Wallpapers/arturodonate_7am_sunrise.jpg</from>
+  <to>/home/gbarkhatov/Dropbox/img/Wallpapers/17_michaelbreitung_staffelsee.jpg</to>
+</transition>
+<static>
+  <duration>1795</duration>
+  <file>/home/gbarkhatov/Dropbox/img/Wallpapers/17_michaelbreitung_staffelsee.jpg</file>
+</static>
+<transition>
+  <duration>5</duration>
+  <from>/home/gbarkhatov/Dropbox/img/Wallpapers/17_michaelbreitung_staffelsee.jpg</from>
+  <to>/home/gbarkhatov/Dropbox/img/Wallpapers/NewSunset (22).jpg</to>
+</transition>
+<static>
+  <duration>1795</duration>
+  <file>/home/gbarkhatov/Dropbox/img/Wallpapers/NewSunset (22).jpg</file>
+</static>
+<transition>
+  <duration>5</duration>
+  <from>/home/gbarkhatov/Dropbox/img/Wallpapers/NewSunset (22).jpg</from>
+  <to>/home/gbarkhatov/Dropbox/img/Wallpapers/caribbeanshores7.jpg</to>
+</transition>
+<static>
+  <duration>1795</duration>
+  <file>/home/gbarkhatov/Dropbox/img/Wallpapers/caribbeanshores7.jpg</file>
+</static>
+<transition>
+  <duration>5</duration>
+  <from>/home/gbarkhatov/Dropbox/img/Wallpapers/caribbeanshores7.jpg</from>
+  <to>/home/gbarkhatov/Dropbox/img/Wallpapers/joshsommersbeach03.jpg</to>
+</transition>
+<static>
+  <duration>1795</duration>
+  <file>/home/gbarkhatov/Dropbox/img/Wallpapers/joshsommersbeach03.jpg</file>
+</static>
+<transition>
+  <duration>5</duration>
+  <from>/home/gbarkhatov/Dropbox/img/Wallpapers/joshsommersbeach03.jpg</from>
+  <to>/home/gbarkhatov/Dropbox/img/Wallpapers/joshsommersbeach13.jpg</to>
+</transition>
+<static>
+  <duration>1795</duration>
+  <file>/home/gbarkhatov/Dropbox/img/Wallpapers/joshsommersbeach13.jpg</file>
+</static>
+<transition>
+  <duration>5</duration>
+  <from>/home/gbarkhatov/Dropbox/img/Wallpapers/joshsommersbeach13.jpg</from>
+  <to>/home/gbarkhatov/Dropbox/img/Wallpapers/NewSunset (14).jpg</to>
+</transition>
+<static>
+  <duration>1795</duration>
+  <file>/home/gbarkhatov/Dropbox/img/Wallpapers/NewSunset (14).jpg</file>
+</static>
+<transition>
+  <duration>5</duration>
+  <from>/home/gbarkhatov/Dropbox/img/Wallpapers/NewSunset (14).jpg</from>
+  <to>/home/gbarkhatov/Dropbox/img/Wallpapers/joshsommersbeach04.jpg</to>
+</transition>
+<static>
+  <duration>1795</duration>
+  <file>/home/gbarkhatov/Dropbox/img/Wallpapers/joshsommersbeach04.jpg</file>
+</static>
+<transition>
+  <duration>5</duration>
+  <from>/home/gbarkhatov/Dropbox/img/Wallpapers/joshsommersbeach04.jpg</from>
+  <to>/home/gbarkhatov/Dropbox/img/Wallpapers/NewSunset (18).jpg</to>
+</transition>
+<static>
+  <duration>1795</duration>
+  <file>/home/gbarkhatov/Dropbox/img/Wallpapers/NewSunset (18).jpg</file>
+</static>
+<transition>
+  <duration>5</duration>
+  <from>/home/gbarkhatov/Dropbox/img/Wallpapers/NewSunset (18).jpg</from>
+  <to>/home/gbarkhatov/Dropbox/img/Wallpapers/3antongorlin-wavewalkingtamaramasydneynswaustralia.jpg</to>
+</transition>
+<static>
+  <duration>1795</duration>
+  <file>/home/gbarkhatov/Dropbox/img/Wallpapers/3antongorlin-wavewalkingtamaramasydneynswaustralia.jpg</file>
+</static>
+<transition>
+  <duration>5</duration>
+  <from>/home/gbarkhatov/Dropbox/img/Wallpapers/3antongorlin-wavewalkingtamaramasydneynswaustralia.jpg</from>
+  <to>/home/gbarkhatov/Dropbox/img/Wallpapers/gruinard-bay.jpg</to>
+</transition>
+<static>
+  <duration>1795</duration>
+  <file>/home/gbarkhatov/Dropbox/img/Wallpapers/gruinard-bay.jpg</file>
+</static>
+<transition>
+  <duration>5</duration>
+  <from>/home/gbarkhatov/Dropbox/img/Wallpapers/gruinard-bay.jpg</from>
+  <to>/home/gbarkhatov/Dropbox/img/Wallpapers/14_michaelbreitung_praia-da-adraga.jpg</to>
+</transition>
+<static>
+  <duration>1795</duration>
+  <file>/home/gbarkhatov/Dropbox/img/Wallpapers/14_michaelbreitung_praia-da-adraga.jpg</file>
+</static>
+<transition>
+  <duration>5</duration>
+  <from>/home/gbarkhatov/Dropbox/img/Wallpapers/14_michaelbreitung_praia-da-adraga.jpg</from>
+  <to>/home/gbarkhatov/Dropbox/img/Wallpapers/amazing_sunset.jpg</to>
+</transition>
+<static>
+  <duration>1795</duration>
+  <file>/home/gbarkhatov/Dropbox/img/Wallpapers/amazing_sunset.jpg</file>
+</static>
+<transition>
+  <duration>5</duration>
+  <from>/home/gbarkhatov/Dropbox/img/Wallpapers/amazing_sunset.jpg</from>
+  <to>/home/gbarkhatov/Dropbox/img/Wallpapers/joshsommersbeach06.jpg</to>
+</transition>
+<static>
+  <duration>1795</duration>
+  <file>/home/gbarkhatov/Dropbox/img/Wallpapers/joshsommersbeach06.jpg</file>
+</static>
+<transition>
+  <duration>5</duration>
+  <from>/home/gbarkhatov/Dropbox/img/Wallpapers/joshsommersbeach06.jpg</from>
+  <to>/home/gbarkhatov/Dropbox/img/Wallpapers/joshsommersbeach09.jpg</to>
+</transition>
+<static>
+  <duration>1795</duration>
+  <file>/home/gbarkhatov/Dropbox/img/Wallpapers/joshsommersbeach09.jpg</file>
+</static>
+<transition>
+  <duration>5</duration>
+  <from>/home/gbarkhatov/Dropbox/img/Wallpapers/joshsommersbeach09.jpg</from>
+  <to>/home/gbarkhatov/Dropbox/img/Wallpapers/panoramic_horizons7.jpg</to>
+</transition>
+<static>
+  <duration>1795</duration>
+  <file>/home/gbarkhatov/Dropbox/img/Wallpapers/panoramic_horizons7.jpg</file>
+</static>
+<transition>
+  <duration>5</duration>
+  <from>/home/gbarkhatov/Dropbox/img/Wallpapers/panoramic_horizons7.jpg</from>
+  <to>/home/gbarkhatov/Dropbox/img/Wallpapers/brookburling-paintedskies6.jpg</to>
+</transition>
+<static>
+  <duration>1795</duration>
+  <file>/home/gbarkhatov/Dropbox/img/Wallpapers/brookburling-paintedskies6.jpg</file>
+</static>
+<transition>
+  <duration>5</duration>
+  <from>/home/gbarkhatov/Dropbox/img/Wallpapers/brookburling-paintedskies6.jpg</from>
+  <to>/home/gbarkhatov/Dropbox/img/Wallpapers/NewSunset (1).jpg</to>
+</transition>
+<static>
+  <duration>1795</duration>
+  <file>/home/gbarkhatov/Dropbox/img/Wallpapers/NewSunset (1).jpg</file>
+</static>
+<transition>
+  <duration>5</duration>
+  <from>/home/gbarkhatov/Dropbox/img/Wallpapers/NewSunset (1).jpg</from>
+  <to>/home/gbarkhatov/Dropbox/img/Wallpapers/havard_bjerke_5915571998.jpg</to>
+</transition>
+<static>
+  <duration>1795</duration>
+  <file>/home/gbarkhatov/Dropbox/img/Wallpapers/havard_bjerke_5915571998.jpg</file>
+</static>
+<transition>
+  <duration>5</duration>
+  <from>/home/gbarkhatov/Dropbox/img/Wallpapers/havard_bjerke_5915571998.jpg</from>
+  <to>/home/gbarkhatov/Dropbox/img/Wallpapers/the_pier.jpg</to>
+</transition>
+<static>
+  <duration>1795</duration>
+  <file>/home/gbarkhatov/Dropbox/img/Wallpapers/the_pier.jpg</file>
+</static>
+<transition>
+  <duration>5</duration>
+  <from>/home/gbarkhatov/Dropbox/img/Wallpapers/the_pier.jpg</from>
+  <to>/home/gbarkhatov/Dropbox/img/Wallpapers/NewSunset (16).jpg</to>
+</transition>
+<static>
+  <duration>1795</duration>
+  <file>/home/gbarkhatov/Dropbox/img/Wallpapers/NewSunset (16).jpg</file>
+</static>
+<transition>
+  <duration>5</duration>
+  <from>/home/gbarkhatov/Dropbox/img/Wallpapers/NewSunset (16).jpg</from>
+  <to>/home/gbarkhatov/Dropbox/img/Wallpapers/1antongorlin-gariebeachroyalnationalparknswaustralia.jpg</to>
+</transition>
+<static>
+  <duration>1795</duration>
+  <file>/home/gbarkhatov/Dropbox/img/Wallpapers/1antongorlin-gariebeachroyalnationalparknswaustralia.jpg</file>
+</static>
+<transition>
+  <duration>5</duration>
+  <from>/home/gbarkhatov/Dropbox/img/Wallpapers/1antongorlin-gariebeachroyalnationalparknswaustralia.jpg</from>
+  <to>/home/gbarkhatov/Dropbox/img/Wallpapers/inch_beach3.jpg</to>
+</transition>
+<static>
+  <duration>1795</duration>
+  <file>/home/gbarkhatov/Dropbox/img/Wallpapers/inch_beach3.jpg</file>
+</static>
+<transition>
+  <duration>5</duration>
+  <from>/home/gbarkhatov/Dropbox/img/Wallpapers/inch_beach3.jpg</from>
+  <to>/home/gbarkhatov/Dropbox/img/Wallpapers/NewSunset (10).jpg</to>
+</transition>
+<static>
+  <duration>1795</duration>
+  <file>/home/gbarkhatov/Dropbox/img/Wallpapers/NewSunset (10).jpg</file>
+</static>
+<transition>
+  <duration>5</duration>
+  <from>/home/gbarkhatov/Dropbox/img/Wallpapers/NewSunset (10).jpg</from>
+  <to>/home/gbarkhatov/Dropbox/img/Wallpapers/1 (12).jpg</to>
+</transition>
+<static>
+  <duration>1795</duration>
+  <file>/home/gbarkhatov/Dropbox/img/Wallpapers/1 (12).jpg</file>
+</static>
+<transition>
+  <duration>5</duration>
+  <from>/home/gbarkhatov/Dropbox/img/Wallpapers/1 (12).jpg</from>
+  <to>/home/gbarkhatov/Dropbox/img/Wallpapers/joshsommersbeach05.jpg</to>
+</transition>
+<static>
+  <duration>1795</duration>
+  <file>/home/gbarkhatov/Dropbox/img/Wallpapers/joshsommersbeach05.jpg</file>
+</static>
+<transition>
+  <duration>5</duration>
+  <from>/home/gbarkhatov/Dropbox/img/Wallpapers/joshsommersbeach05.jpg</from>
+  <to>/home/gbarkhatov/Dropbox/img/Wallpapers/3_michaelbreitung_walchensee.jpg</to>
+</transition>
+<static>
+  <duration>1795</duration>
+  <file>/home/gbarkhatov/Dropbox/img/Wallpapers/3_michaelbreitung_walchensee.jpg</file>
+</static>
+<transition>
+  <duration>5</duration>
+  <from>/home/gbarkhatov/Dropbox/img/Wallpapers/3_michaelbreitung_walchensee.jpg</from>
+  <to>/home/gbarkhatov/Dropbox/img/Wallpapers/caribbeanshores8.jpg</to>
+</transition>
+<static>
+  <duration>1795</duration>
+  <file>/home/gbarkhatov/Dropbox/img/Wallpapers/caribbeanshores8.jpg</file>
+</static>
+<transition>
+  <duration>5</duration>
+  <from>/home/gbarkhatov/Dropbox/img/Wallpapers/caribbeanshores8.jpg</from>
+  <to>/home/gbarkhatov/Dropbox/img/Wallpapers/joshsommersbeach01.jpg</to>
+</transition>
+<static>
+  <duration>1795</duration>
+  <file>/home/gbarkhatov/Dropbox/img/Wallpapers/joshsommersbeach01.jpg</file>
+</static>
+<transition>
+  <duration>5</duration>
+  <from>/home/gbarkhatov/Dropbox/img/Wallpapers/joshsommersbeach01.jpg</from>
+  <to>/home/gbarkhatov/Dropbox/img/Wallpapers/praia_do_leblon.jpg</to>
+</transition>
+<static>
+  <duration>1795</duration>
+  <file>/home/gbarkhatov/Dropbox/img/Wallpapers/praia_do_leblon.jpg</file>
+</static>
+<transition>
+  <duration>5</duration>
+  <from>/home/gbarkhatov/Dropbox/img/Wallpapers/praia_do_leblon.jpg</from>
+  <to>/home/gbarkhatov/Dropbox/img/Wallpapers/joshsommersbeach02.jpg</to>
+</transition>
+<static>
+  <duration>1795</duration>
+  <file>/home/gbarkhatov/Dropbox/img/Wallpapers/joshsommersbeach02.jpg</file>
+</static>
+<transition>
+  <duration>5</duration>
+  <from>/home/gbarkhatov/Dropbox/img/Wallpapers/joshsommersbeach02.jpg</from>
+  <to>/home/gbarkhatov/Dropbox/img/Wallpapers/inch_beach2.jpg</to>
+</transition>
+<static>
+  <duration>1795</duration>
+  <file>/home/gbarkhatov/Dropbox/img/Wallpapers/inch_beach2.jpg</file>
+</static>
+<transition>
+  <duration>5</duration>
+  <from>/home/gbarkhatov/Dropbox/img/Wallpapers/inch_beach2.jpg</from>
+  <to>/home/gbarkhatov/Dropbox/img/Wallpapers/NewSunset (4).jpg</to>
+</transition>
+<static>
+  <duration>1795</duration>
+  <file>/home/gbarkhatov/Dropbox/img/Wallpapers/NewSunset (4).jpg</file>
+</static>
+<transition>
+  <duration>5</duration>
+  <from>/home/gbarkhatov/Dropbox/img/Wallpapers/NewSunset (4).jpg</from>
+  <to>/home/gbarkhatov/Dropbox/img/Wallpapers/stars.jpg</to>
+</transition>
+<static>
+  <duration>1795</duration>
+  <file>/home/gbarkhatov/Dropbox/img/Wallpapers/stars.jpg</file>
+</static>
+<transition>
+  <duration>5</duration>
+  <from>/home/gbarkhatov/Dropbox/img/Wallpapers/stars.jpg</from>
+  <to>/home/gbarkhatov/Dropbox/img/Wallpapers/NewSunset (7).jpg</to>
+</transition>
+<static>
+  <duration>1795</duration>
+  <file>/home/gbarkhatov/Dropbox/img/Wallpapers/NewSunset (7).jpg</file>
+</static>
+<transition>
+  <duration>5</duration>
+  <from>/home/gbarkhatov/Dropbox/img/Wallpapers/NewSunset (7).jpg</from>
+  <to>/home/gbarkhatov/Dropbox/img/Wallpapers/NewSunset (5).jpg</to>
+</transition>
+<static>
+  <duration>1795</duration>
+  <file>/home/gbarkhatov/Dropbox/img/Wallpapers/NewSunset (5).jpg</file>
+</static>
+<transition>
+  <duration>5</duration>
+  <from>/home/gbarkhatov/Dropbox/img/Wallpapers/NewSunset (5).jpg</from>
+  <to>/home/gbarkhatov/Dropbox/img/Wallpapers/duskdawnjapan4.jpg</to>
+</transition>
+<static>
+  <duration>1795</duration>
+  <file>/home/gbarkhatov/Dropbox/img/Wallpapers/duskdawnjapan4.jpg</file>
+</static>
+<transition>
+  <duration>5</duration>
+  <from>/home/gbarkhatov/Dropbox/img/Wallpapers/duskdawnjapan4.jpg</from>
+  <to>/home/gbarkhatov/Dropbox/img/Wallpapers/brookburling-paintedskies4.jpg</to>
+</transition>
+<static>
+  <duration>1795</duration>
+  <file>/home/gbarkhatov/Dropbox/img/Wallpapers/brookburling-paintedskies4.jpg</file>
+</static>
+<transition>
+  <duration>5</duration>
+  <from>/home/gbarkhatov/Dropbox/img/Wallpapers/brookburling-paintedskies4.jpg</from>
+  <to>/home/gbarkhatov/Dropbox/img/Wallpapers/NewSunset (24).jpg</to>
+</transition>
+<static>
+  <duration>1795</duration>
+  <file>/home/gbarkhatov/Dropbox/img/Wallpapers/NewSunset (24).jpg</file>
+</static>
+<transition>
+  <duration>5</duration>
+  <from>/home/gbarkhatov/Dropbox/img/Wallpapers/NewSunset (24).jpg</from>
+  <to>/home/gbarkhatov/Dropbox/img/Wallpapers/bobjagendorf_frozen.jpg</to>
+</transition>
+<static>
+  <duration>1795</duration>
+  <file>/home/gbarkhatov/Dropbox/img/Wallpapers/bobjagendorf_frozen.jpg</file>
+</static>
+<transition>
+  <duration>5</duration>
+  <from>/home/gbarkhatov/Dropbox/img/Wallpapers/bobjagendorf_frozen.jpg</from>
+  <to>/home/gbarkhatov/Dropbox/img/Wallpapers/NewSunset (25).jpg</to>
+</transition>
+<static>
+  <duration>1795</duration>
+  <file>/home/gbarkhatov/Dropbox/img/Wallpapers/NewSunset (25).jpg</file>
+</static>
+<transition>
+  <duration>5</duration>
+  <from>/home/gbarkhatov/Dropbox/img/Wallpapers/NewSunset (25).jpg</from>
+  <to>/home/gbarkhatov/Dropbox/img/Wallpapers/NewSunset (17).jpg</to>
+</transition>
+<static>
+  <duration>1795</duration>
+  <file>/home/gbarkhatov/Dropbox/img/Wallpapers/NewSunset (17).jpg</file>
+</static>
+<transition>
+  <duration>5</duration>
+  <from>/home/gbarkhatov/Dropbox/img/Wallpapers/NewSunset (17).jpg</from>
+  <to>/home/gbarkhatov/Dropbox/img/Wallpapers/caribbeanshores6.jpg</to>
+</transition>
+<static>
+  <duration>1795</duration>
+  <file>/home/gbarkhatov/Dropbox/img/Wallpapers/caribbeanshores6.jpg</file>
+</static>
+<transition>
+  <duration>5</duration>
+  <from>/home/gbarkhatov/Dropbox/img/Wallpapers/caribbeanshores6.jpg</from>
+  <to>/home/gbarkhatov/Dropbox/img/Wallpapers/NewSunset (2).jpg</to>
+</transition>
+<static>
+  <duration>1795</duration>
+  <file>/home/gbarkhatov/Dropbox/img/Wallpapers/NewSunset (2).jpg</file>
+</static>
+<transition>
+  <duration>5</duration>
+  <from>/home/gbarkhatov/Dropbox/img/Wallpapers/NewSunset (2).jpg</from>
+  <to>/home/gbarkhatov/Dropbox/img/Wallpapers/1 (18).jpg</to>
+</transition>
+<static>
+  <duration>1795</duration>
+  <file>/home/gbarkhatov/Dropbox/img/Wallpapers/1 (18).jpg</file>
+</static>
+<transition>
+  <duration>5</duration>
+  <from>/home/gbarkhatov/Dropbox/img/Wallpapers/1 (18).jpg</from>
+  <to>/home/gbarkhatov/Dropbox/img/Wallpapers/2us-betawp3.jpg</to>
+</transition>
+<static>
+  <duration>1795</duration>
+  <file>/home/gbarkhatov/Dropbox/img/Wallpapers/2us-betawp3.jpg</file>
+</static>
+<transition>
+  <duration>5</duration>
+  <from>/home/gbarkhatov/Dropbox/img/Wallpapers/2us-betawp3.jpg</from>
+  <to>/home/gbarkhatov/Dropbox/img/Wallpapers/breath.jpg</to>
+</transition>
+<static>
+  <duration>1795</duration>
+  <file>/home/gbarkhatov/Dropbox/img/Wallpapers/breath.jpg</file>
+</static>
+<transition>
+  <duration>5</duration>
+  <from>/home/gbarkhatov/Dropbox/img/Wallpapers/breath.jpg</from>
+  <to>/home/gbarkhatov/Dropbox/img/Wallpapers/NewSunset (8).jpg</to>
+</transition>
+<static>
+  <duration>1795</duration>
+  <file>/home/gbarkhatov/Dropbox/img/Wallpapers/NewSunset (8).jpg</file>
+</static>
+<transition>
+  <duration>5</duration>
+  <from>/home/gbarkhatov/Dropbox/img/Wallpapers/NewSunset (8).jpg</from>
+  <to>/home/gbarkhatov/Dropbox/img/Wallpapers/adraga.jpg</to>
+</transition>
+<static>
+  <duration>1795</duration>
+  <file>/home/gbarkhatov/Dropbox/img/Wallpapers/adraga.jpg</file>
+</static>
+<transition>
+  <duration>5</duration>
+  <from>/home/gbarkhatov/Dropbox/img/Wallpapers/adraga.jpg</from>
+  <to>/home/gbarkhatov/Dropbox/img/Wallpapers/duskdawnjapan6.jpg</to>
+</transition>
+<static>
+  <duration>1795</duration>
+  <file>/home/gbarkhatov/Dropbox/img/Wallpapers/duskdawnjapan6.jpg</file>
+</static>
+<transition>
+  <duration>5</duration>
+  <from>/home/gbarkhatov/Dropbox/img/Wallpapers/duskdawnjapan6.jpg</from>
+  <to>/home/gbarkhatov/Dropbox/img/Wallpapers/dexxus_5653503758.jpg</to>
+</transition>
+<static>
+  <duration>1795</duration>
+  <file>/home/gbarkhatov/Dropbox/img/Wallpapers/dexxus_5653503758.jpg</file>
+</static>
+<transition>
+  <duration>5</duration>
+  <from>/home/gbarkhatov/Dropbox/img/Wallpapers/dexxus_5653503758.jpg</from>
+  <to>/home/gbarkhatov/Dropbox/img/Wallpapers/1 (15).jpg</to>
+</transition>
+<static>
+  <duration>1795</duration>
+  <file>/home/gbarkhatov/Dropbox/img/Wallpapers/1 (15).jpg</file>
+</static>
+<transition>
+  <duration>5</duration>
+  <from>/home/gbarkhatov/Dropbox/img/Wallpapers/1 (15).jpg</from>
+  <to>/home/gbarkhatov/Dropbox/img/Wallpapers/caribbeanshores5.jpg</to>
+</transition>
+<static>
+  <duration>1795</duration>
+  <file>/home/gbarkhatov/Dropbox/img/Wallpapers/caribbeanshores5.jpg</file>
+</static>
+<transition>
+  <duration>5</duration>
+  <from>/home/gbarkhatov/Dropbox/img/Wallpapers/caribbeanshores5.jpg</from>
+  <to>/home/gbarkhatov/Dropbox/img/Wallpapers/konstantin_8431813415.jpg</to>
+</transition>
+<static>
+  <duration>1795</duration>
+  <file>/home/gbarkhatov/Dropbox/img/Wallpapers/konstantin_8431813415.jpg</file>
+</static>
+<transition>
+  <duration>5</duration>
+  <from>/home/gbarkhatov/Dropbox/img/Wallpapers/konstantin_8431813415.jpg</from>
+  <to>/home/gbarkhatov/Dropbox/img/Wallpapers/1 (16).jpg</to>
+</transition>
+<static>
+  <duration>1795</duration>
+  <file>/home/gbarkhatov/Dropbox/img/Wallpapers/1 (16).jpg</file>
+</static>
+<transition>
+  <duration>5</duration>
+  <from>/home/gbarkhatov/Dropbox/img/Wallpapers/1 (16).jpg</from>
+  <to>/home/gbarkhatov/Dropbox/img/Wallpapers/NewSunset (19).jpg</to>
+</transition>
+<static>
+  <duration>1795</duration>
+  <file>/home/gbarkhatov/Dropbox/img/Wallpapers/NewSunset (19).jpg</file>
+</static>
+<transition>
+  <duration>5</duration>
+  <from>/home/gbarkhatov/Dropbox/img/Wallpapers/NewSunset (19).jpg</from>
+  <to>/home/gbarkhatov/Dropbox/img/Wallpapers/inch_beach.jpg</to>
+</transition>
+<static>
+  <duration>1795</duration>
+  <file>/home/gbarkhatov/Dropbox/img/Wallpapers/inch_beach.jpg</file>
+</static>
+<transition>
+  <duration>5</duration>
+  <from>/home/gbarkhatov/Dropbox/img/Wallpapers/inch_beach.jpg</from>
+  <to>/home/gbarkhatov/Dropbox/img/Wallpapers/brookburling-paintedskies9.jpg</to>
+</transition>
+<static>
+  <duration>1795</duration>
+  <file>/home/gbarkhatov/Dropbox/img/Wallpapers/brookburling-paintedskies9.jpg</file>
+</static>
+<transition>
+  <duration>5</duration>
+  <from>/home/gbarkhatov/Dropbox/img/Wallpapers/brookburling-paintedskies9.jpg</from>
+  <to>/home/gbarkhatov/Dropbox/img/Wallpapers/joshsommersbeach14.jpg</to>
+</transition>
+<static>
+  <duration>1795</duration>
+  <file>/home/gbarkhatov/Dropbox/img/Wallpapers/joshsommersbeach14.jpg</file>
+</static>
+<transition>
+  <duration>5</duration>
+  <from>/home/gbarkhatov/Dropbox/img/Wallpapers/joshsommersbeach14.jpg</from>
+  <to>/home/gbarkhatov/Dropbox/img/Wallpapers/kennymatic_taking_it_all_in.jpg</to>
+</transition>
+<static>
+  <duration>1795</duration>
+  <file>/home/gbarkhatov/Dropbox/img/Wallpapers/kennymatic_taking_it_all_in.jpg</file>
+</static>
+<transition>
+  <duration>5</duration>
+  <from>/home/gbarkhatov/Dropbox/img/Wallpapers/kennymatic_taking_it_all_in.jpg</from>
+  <to>/home/gbarkhatov/Dropbox/img/Wallpapers/NewSunset (12).jpg</to>
+</transition>
+<static>
+  <duration>1795</duration>
+  <file>/home/gbarkhatov/Dropbox/img/Wallpapers/NewSunset (12).jpg</file>
+</static>
+<transition>
+  <duration>5</duration>
+  <from>/home/gbarkhatov/Dropbox/img/Wallpapers/NewSunset (12).jpg</from>
+  <to>/home/gbarkhatov/Dropbox/img/Wallpapers/12_michaelbreitung_hovshallar.jpg</to>
+</transition>
+<static>
+  <duration>1795</duration>
+  <file>/home/gbarkhatov/Dropbox/img/Wallpapers/12_michaelbreitung_hovshallar.jpg</file>
+</static>
+<transition>
+  <duration>5</duration>
+  <from>/home/gbarkhatov/Dropbox/img/Wallpapers/12_michaelbreitung_hovshallar.jpg</from>
+  <to>/home/gbarkhatov/Dropbox/img/Wallpapers/1 (8).jpg</to>
+</transition>
+<static>
+  <duration>1795</duration>
+  <file>/home/gbarkhatov/Dropbox/img/Wallpapers/1 (8).jpg</file>
+</static>
+<transition>
+  <duration>5</duration>
+  <from>/home/gbarkhatov/Dropbox/img/Wallpapers/1 (8).jpg</from>
+  <to>/home/gbarkhatov/Dropbox/img/Wallpapers/joshsommersbeach08.jpg</to>
+</transition>
+<static>
+  <duration>1795</duration>
+  <file>/home/gbarkhatov/Dropbox/img/Wallpapers/joshsommersbeach08.jpg</file>
+</static>
+<transition>
+  <duration>5</duration>
+  <from>/home/gbarkhatov/Dropbox/img/Wallpapers/joshsommersbeach08.jpg</from>
+  <to>/home/gbarkhatov/Dropbox/img/Wallpapers/AU-olwp1.jpg</to>
+</transition>
+<static>
+  <duration>1795</duration>
+  <file>/home/gbarkhatov/Dropbox/img/Wallpapers/AU-olwp1.jpg</file>
+</static>
+<transition>
+  <duration>5</duration>
+  <from>/home/gbarkhatov/Dropbox/img/Wallpapers/AU-olwp1.jpg</from>
+  <to>/home/gbarkhatov/Dropbox/img/Wallpapers/kennymatic_deer_lake.jpg</to>
+</transition>
+<static>
+  <duration>1795</duration>
+  <file>/home/gbarkhatov/Dropbox/img/Wallpapers/kennymatic_deer_lake.jpg</file>
+</static>
+<transition>
+  <duration>5</duration>
+  <from>/home/gbarkhatov/Dropbox/img/Wallpapers/kennymatic_deer_lake.jpg</from>
+  <to>/home/gbarkhatov/Dropbox/img/Wallpapers/joshsommersbeach12.jpg</to>
+</transition>
+<static>
+  <duration>1795</duration>
+  <file>/home/gbarkhatov/Dropbox/img/Wallpapers/joshsommersbeach12.jpg</file>
+</static>
+<transition>
+  <duration>5</duration>
+  <from>/home/gbarkhatov/Dropbox/img/Wallpapers/joshsommersbeach12.jpg</from>
+  <to>/home/gbarkhatov/Dropbox/img/Wallpapers/dexxus_5626316429.jpg</to>
+</transition>
+<static>
+  <duration>1795</duration>
+  <file>/home/gbarkhatov/Dropbox/img/Wallpapers/dexxus_5626316429.jpg</file>
+</static>
+<transition>
+  <duration>5</duration>
+  <from>/home/gbarkhatov/Dropbox/img/Wallpapers/dexxus_5626316429.jpg</from>
+  <to>/home/gbarkhatov/Dropbox/img/Wallpapers/panoramic_waves2.jpg</to>
+</transition>
+<static>
+  <duration>1795</duration>
+  <file>/home/gbarkhatov/Dropbox/img/Wallpapers/panoramic_waves2.jpg</file>
+</static>
+<transition>
+  <duration>5</duration>
+  <from>/home/gbarkhatov/Dropbox/img/Wallpapers/panoramic_waves2.jpg</from>
+  <to>/home/gbarkhatov/Dropbox/img/Wallpapers/NewSunset (29).jpg</to>
+</transition>
+<static>
+  <duration>1795</duration>
+  <file>/home/gbarkhatov/Dropbox/img/Wallpapers/NewSunset (29).jpg</file>
+</static>
+<transition>
+  <duration>5</duration>
+  <from>/home/gbarkhatov/Dropbox/img/Wallpapers/NewSunset (29).jpg</from>
+  <to>/home/gbarkhatov/Dropbox/img/Wallpapers/kennymatic_edge.jpg</to>
+</transition>
+<static>
+  <duration>1795</duration>
+  <file>/home/gbarkhatov/Dropbox/img/Wallpapers/kennymatic_edge.jpg</file>
+</static>
+<transition>
+  <duration>5</duration>
+  <from>/home/gbarkhatov/Dropbox/img/Wallpapers/kennymatic_edge.jpg</from>
+  <to>/home/gbarkhatov/Dropbox/img/Wallpapers/sunrise_over_the_ligurian.jpg</to>
+</transition>
+<static>
+  <duration>1795</duration>
+  <file>/home/gbarkhatov/Dropbox/img/Wallpapers/sunrise_over_the_ligurian.jpg</file>
+</static>
+<transition>
+  <duration>5</duration>
+  <from>/home/gbarkhatov/Dropbox/img/Wallpapers/sunrise_over_the_ligurian.jpg</from>
+  <to>/home/gbarkhatov/Dropbox/img/Wallpapers/duskdawnjapan2.jpg</to>
+</transition>
+<static>
+  <duration>1795</duration>
+  <file>/home/gbarkhatov/Dropbox/img/Wallpapers/duskdawnjapan2.jpg</file>
+</static>
+<transition>
+  <duration>5</duration>
+  <from>/home/gbarkhatov/Dropbox/img/Wallpapers/duskdawnjapan2.jpg</from>
+  <to>/home/gbarkhatov/Dropbox/img/Wallpapers/dexxus_4714207610.jpg</to>
+</transition>
+<static>
+  <duration>1795</duration>
+  <file>/home/gbarkhatov/Dropbox/img/Wallpapers/dexxus_4714207610.jpg</file>
+</static>
+<transition>
+  <duration>5</duration>
+  <from>/home/gbarkhatov/Dropbox/img/Wallpapers/dexxus_4714207610.jpg</from>
+  <to>/home/gbarkhatov/Dropbox/img/Wallpapers/joshsommersbeach15.jpg</to>
+</transition>
+<static>
+  <duration>1795</duration>
+  <file>/home/gbarkhatov/Dropbox/img/Wallpapers/joshsommersbeach15.jpg</file>
+</static>
+<transition>
+  <duration>5</duration>
+  <from>/home/gbarkhatov/Dropbox/img/Wallpapers/joshsommersbeach15.jpg</from>
+  <to>/home/gbarkhatov/Dropbox/img/Wallpapers/AU-olwp6.jpg</to>
+</transition>
+<static>
+  <duration>1795</duration>
+  <file>/home/gbarkhatov/Dropbox/img/Wallpapers/AU-olwp6.jpg</file>
+</static>
+<transition>
+  <duration>5</duration>
+  <from>/home/gbarkhatov/Dropbox/img/Wallpapers/AU-olwp6.jpg</from>
+  <to>/home/gbarkhatov/Dropbox/img/Wallpapers/NewSunset (28).jpg</to>
+</transition>
+<static>
+  <duration>1795</duration>
+  <file>/home/gbarkhatov/Dropbox/img/Wallpapers/NewSunset (28).jpg</file>
+</static>
+<transition>
+  <duration>5</duration>
+  <from>/home/gbarkhatov/Dropbox/img/Wallpapers/NewSunset (28).jpg</from>
+  <to>/home/gbarkhatov/Dropbox/img/Wallpapers/kennymatic_sunny.jpg</to>
+</transition>
+<static>
+  <duration>1795</duration>
+  <file>/home/gbarkhatov/Dropbox/img/Wallpapers/kennymatic_sunny.jpg</file>
+</static>
+<transition>
+  <duration>5</duration>
+  <from>/home/gbarkhatov/Dropbox/img/Wallpapers/kennymatic_sunny.jpg</from>
+  <to>/home/gbarkhatov/Dropbox/img/Wallpapers/brookburling-paintedskies2.jpg</to>
+</transition>
+<static>
+  <duration>1795</duration>
+  <file>/home/gbarkhatov/Dropbox/img/Wallpapers/brookburling-paintedskies2.jpg</file>
+</static>
+<transition>
+  <duration>5</duration>
+  <from>/home/gbarkhatov/Dropbox/img/Wallpapers/brookburling-paintedskies2.jpg</from>
+  <to>/home/gbarkhatov/Dropbox/img/Wallpapers/panama.jpg</to>
+</transition>
+<static>
+  <duration>1795</duration>
+  <file>/home/gbarkhatov/Dropbox/img/Wallpapers/panama.jpg</file>
+</static>
+<transition>
+  <duration>5</duration>
+  <from>/home/gbarkhatov/Dropbox/img/Wallpapers/panama.jpg</from>
+  <to>/home/gbarkhatov/Dropbox/img/Wallpapers/convergence.jpg</to>
+</transition>
+<static>
+  <duration>1795</duration>
+  <file>/home/gbarkhatov/Dropbox/img/Wallpapers/convergence.jpg</file>
+</static>
+<transition>
+  <duration>5</duration>
+  <from>/home/gbarkhatov/Dropbox/img/Wallpapers/convergence.jpg</from>
+  <to>/home/gbarkhatov/Dropbox/img/Wallpapers/m1r0r1m_rila_lake.jpg</to>
+</transition>
+<static>
+  <duration>1795</duration>
+  <file>/home/gbarkhatov/Dropbox/img/Wallpapers/m1r0r1m_rila_lake.jpg</file>
+</static>
+<transition>
+  <duration>5</duration>
+  <from>/home/gbarkhatov/Dropbox/img/Wallpapers/m1r0r1m_rila_lake.jpg</from>
+  <to>/home/gbarkhatov/Dropbox/img/Wallpapers/NewSunset (6).jpg</to>
+</transition>
+<static>
+  <duration>1795</duration>
+  <file>/home/gbarkhatov/Dropbox/img/Wallpapers/NewSunset (6).jpg</file>
+</static>
+<transition>
+  <duration>5</duration>
+  <from>/home/gbarkhatov/Dropbox/img/Wallpapers/NewSunset (6).jpg</from>
+  <to>/home/gbarkhatov/Dropbox/img/Wallpapers/NewSunset (15).jpg</to>
+</transition>
+<static>
+  <duration>1795</duration>
+  <file>/home/gbarkhatov/Dropbox/img/Wallpapers/NewSunset (15).jpg</file>
+</static>
+<transition>
+  <duration>5</duration>
+  <from>/home/gbarkhatov/Dropbox/img/Wallpapers/NewSunset (15).jpg</from>
+  <to>/home/gbarkhatov/Dropbox/img/Wallpapers/godrevy.jpg</to>
+</transition>
+<static>
+  <duration>1795</duration>
+  <file>/home/gbarkhatov/Dropbox/img/Wallpapers/godrevy.jpg</file>
+</static>
+<transition>
+  <duration>5</duration>
+  <from>/home/gbarkhatov/Dropbox/img/Wallpapers/godrevy.jpg</from>
+  <to>/home/gbarkhatov/Dropbox/img/Wallpapers/duskdawnjapan11.jpg</to>
+</transition>
+<static>
+  <duration>1795</duration>
+  <file>/home/gbarkhatov/Dropbox/img/Wallpapers/duskdawnjapan11.jpg</file>
+</static>
+<transition>
+  <duration>5</duration>
+  <from>/home/gbarkhatov/Dropbox/img/Wallpapers/duskdawnjapan11.jpg</from>
+  <to>/home/gbarkhatov/Dropbox/img/Wallpapers/15_markus_janse-spiekeroog2.jpg</to>
+</transition>
+<static>
+  <duration>1795</duration>
+  <file>/home/gbarkhatov/Dropbox/img/Wallpapers/15_markus_janse-spiekeroog2.jpg</file>
+</static>
+<transition>
+  <duration>5</duration>
+  <from>/home/gbarkhatov/Dropbox/img/Wallpapers/15_markus_janse-spiekeroog2.jpg</from>
+  <to>/home/gbarkhatov/Dropbox/img/Wallpapers/sunset_in_the_field.jpg</to>
+</transition>
+<static>
+  <duration>1795</duration>
+  <file>/home/gbarkhatov/Dropbox/img/Wallpapers/sunset_in_the_field.jpg</file>
+</static>
+<transition>
+  <duration>5</duration>
+  <from>/home/gbarkhatov/Dropbox/img/Wallpapers/sunset_in_the_field.jpg</from>
+  <to>/home/gbarkhatov/Dropbox/img/Wallpapers/NewSunset (9).jpg</to>
+</transition>
+<static>
+  <duration>1795</duration>
+  <file>/home/gbarkhatov/Dropbox/img/Wallpapers/NewSunset (9).jpg</file>
+</static>
+<transition>
+  <duration>5</duration>
+  <from>/home/gbarkhatov/Dropbox/img/Wallpapers/NewSunset (9).jpg</from>
+  <to>/home/gbarkhatov/Dropbox/img/Wallpapers/NewSunset (23).jpg</to>
+</transition>
+<static>
+  <duration>1795</duration>
+  <file>/home/gbarkhatov/Dropbox/img/Wallpapers/NewSunset (23).jpg</file>
+</static>
+<transition>
+  <duration>5</duration>
+  <from>/home/gbarkhatov/Dropbox/img/Wallpapers/NewSunset (23).jpg</from>
+  <to>/home/gbarkhatov/Dropbox/img/Wallpapers/murder-hole.jpg</to>
+</transition>
+<static>
+  <duration>1795</duration>
+  <file>/home/gbarkhatov/Dropbox/img/Wallpapers/murder-hole.jpg</file>
+</static>
+<transition>
+  <duration>5</duration>
+  <from>/home/gbarkhatov/Dropbox/img/Wallpapers/murder-hole.jpg</from>
+  <to>/home/gbarkhatov/Dropbox/img/Wallpapers/NewSunset (26).jpg</to>
+</transition>
+<static>
+  <duration>1795</duration>
+  <file>/home/gbarkhatov/Dropbox/img/Wallpapers/NewSunset (26).jpg</file>
+</static>
+<transition>
+  <duration>5</duration>
+  <from>/home/gbarkhatov/Dropbox/img/Wallpapers/NewSunset (26).jpg</from>
+  <to>/home/gbarkhatov/Dropbox/img/Wallpapers/j_baer_5976503592.jpg</to>
+</transition>
+<static>
+  <duration>1795</duration>
+  <file>/home/gbarkhatov/Dropbox/img/Wallpapers/j_baer_5976503592.jpg</file>
+</static>
+<transition>
+  <duration>5</duration>
+  <from>/home/gbarkhatov/Dropbox/img/Wallpapers/j_baer_5976503592.jpg</from>
+  <to>/home/gbarkhatov/Dropbox/img/Wallpapers/6_michaelbreitung_kaparkona.jpg</to>
+</transition>
+<static>
+  <duration>1795</duration>
+  <file>/home/gbarkhatov/Dropbox/img/Wallpapers/6_michaelbreitung_kaparkona.jpg</file>
+</static>
+<transition>
+  <duration>5</duration>
+  <from>/home/gbarkhatov/Dropbox/img/Wallpapers/6_michaelbreitung_kaparkona.jpg</from>
+  <to>/home/gbarkhatov/Dropbox/img/Wallpapers/joshsommersbeach11.jpg</to>
+</transition>
+<static>
+  <duration>1795</duration>
+  <file>/home/gbarkhatov/Dropbox/img/Wallpapers/joshsommersbeach11.jpg</file>
+</static>
+<transition>
+  <duration>5</duration>
+  <from>/home/gbarkhatov/Dropbox/img/Wallpapers/joshsommersbeach11.jpg</from>
+  <to>/home/gbarkhatov/Dropbox/img/Wallpapers/joshsommersbeach07.jpg</to>
+</transition>
+<static>
+  <duration>1795</duration>
+  <file>/home/gbarkhatov/Dropbox/img/Wallpapers/joshsommersbeach07.jpg</file>
+</static>
+<transition>
+  <duration>5</duration>
+  <from>/home/gbarkhatov/Dropbox/img/Wallpapers/joshsommersbeach07.jpg</from>
+  <to>/home/gbarkhatov/Dropbox/img/Wallpapers/pebbles.jpg</to>
+</transition>
+<static>
+  <duration>1795</duration>
+  <file>/home/gbarkhatov/Dropbox/img/Wallpapers/pebbles.jpg</file>
+</static>
+<transition>
+  <duration>5</duration>
+  <from>/home/gbarkhatov/Dropbox/img/Wallpapers/pebbles.jpg</from>
+  <to>/home/gbarkhatov/Dropbox/img/Wallpapers/caribbeanshores12.jpg</to>
+</transition>
+<static>
+  <duration>1795</duration>
+  <file>/home/gbarkhatov/Dropbox/img/Wallpapers/caribbeanshores12.jpg</file>
+</static>
+<transition>
+  <duration>5</duration>
+  <from>/home/gbarkhatov/Dropbox/img/Wallpapers/caribbeanshores12.jpg</from>
+  <to>/home/gbarkhatov/Dropbox/img/Wallpapers/l2.jpg</to>
+</transition>
+<static>
+  <duration>1795</duration>
+  <file>/home/gbarkhatov/Dropbox/img/Wallpapers/l2.jpg</file>
+</static>
+<transition>
+  <duration>5</duration>
+  <from>/home/gbarkhatov/Dropbox/img/Wallpapers/l2.jpg</from>
+  <to>/home/gbarkhatov/Dropbox/img/Wallpapers/NewSunset (27).jpg</to>
+</transition>
+<static>
+  <duration>1795</duration>
+  <file>/home/gbarkhatov/Dropbox/img/Wallpapers/NewSunset (27).jpg</file>
+</static>
+<transition>
+  <duration>5</duration>
+  <from>/home/gbarkhatov/Dropbox/img/Wallpapers/NewSunset (27).jpg</from>
+  <to>/home/gbarkhatov/Dropbox/img/Wallpapers/duskdawnjapan10.jpg</to>
+</transition>
+<static>
+  <duration>1795</duration>
+  <file>/home/gbarkhatov/Dropbox/img/Wallpapers/duskdawnjapan10.jpg</file>
+</static>
+<transition>
+  <duration>5</duration>
+  <from>/home/gbarkhatov/Dropbox/img/Wallpapers/duskdawnjapan10.jpg</from>
+  <to>/home/gbarkhatov/Dropbox/img/Wallpapers/2antongorlin-tamaramabeachnswaustralia.jpg</to>
+</transition>
+<static>
+  <duration>1795</duration>
+  <file>/home/gbarkhatov/Dropbox/img/Wallpapers/2antongorlin-tamaramabeachnswaustralia.jpg</file>
+</static>
+<transition>
+  <duration>5</duration>
+  <from>/home/gbarkhatov/Dropbox/img/Wallpapers/2antongorlin-tamaramabeachnswaustralia.jpg</from>
+  <to>/home/gbarkhatov/Dropbox/img/Wallpapers/NewSunset (20).jpg</to>
+</transition>
+<static>
+  <duration>1795</duration>
+  <file>/home/gbarkhatov/Dropbox/img/Wallpapers/NewSunset (20).jpg</file>
+</static>
+<transition>
+  <duration>5</duration>
+  <from>/home/gbarkhatov/Dropbox/img/Wallpapers/NewSunset (20).jpg</from>
+  <to>/home/gbarkhatov/Dropbox/img/Wallpapers/NewSunset (13).jpg</to>
+</transition>
+<static>
+  <duration>1795</duration>
+  <file>/home/gbarkhatov/Dropbox/img/Wallpapers/NewSunset (13).jpg</file>
+</static>
+<transition>
+  <duration>5</duration>
+  <from>/home/gbarkhatov/Dropbox/img/Wallpapers/NewSunset (13).jpg</from>
+  <to>/home/gbarkhatov/Dropbox/img/Wallpapers/anse-lazio.jpg</to>
+</transition>
+<static>
+  <duration>1795</duration>
+  <file>/home/gbarkhatov/Dropbox/img/Wallpapers/anse-lazio.jpg</file>
+</static>
+<transition>
+  <duration>5</duration>
+  <from>/home/gbarkhatov/Dropbox/img/Wallpapers/anse-lazio.jpg</from>
+  <to>/home/gbarkhatov/Dropbox/img/Wallpapers/road.jpg</to>
+</transition>
+<static>
+  <duration>1795</duration>
+  <file>/home/gbarkhatov/Dropbox/img/Wallpapers/road.jpg</file>
+</static>
+<transition>
+  <duration>5</duration>
+  <from>/home/gbarkhatov/Dropbox/img/Wallpapers/road.jpg</from>
+  <to>/home/gbarkhatov/Dropbox/img/Wallpapers/clem_lago_di_garda.jpg</to>
+</transition>
+<static>
+  <duration>1795</duration>
+  <file>/home/gbarkhatov/Dropbox/img/Wallpapers/clem_lago_di_garda.jpg</file>
+</static>
+<transition>
+  <duration>5</duration>
+  <from>/home/gbarkhatov/Dropbox/img/Wallpapers/clem_lago_di_garda.jpg</from>
+  <to>/home/gbarkhatov/Dropbox/img/Wallpapers/1 (3).jpg</to>
+</transition>
+<static>
+  <duration>1795</duration>
+  <file>/home/gbarkhatov/Dropbox/img/Wallpapers/1 (3).jpg</file>
+</static>
+<transition>
+  <duration>5</duration>
+  <from>/home/gbarkhatov/Dropbox/img/Wallpapers/1 (3).jpg</from>
+  <to>/home/gbarkhatov/Dropbox/img/Wallpapers/6uk-betawp4.jpg</to>
+</transition>
+<static>
+  <duration>1795</duration>
+  <file>/home/gbarkhatov/Dropbox/img/Wallpapers/6uk-betawp4.jpg</file>
+</static>
+<transition>
+  <duration>5</duration>
+  <from>/home/gbarkhatov/Dropbox/img/Wallpapers/6uk-betawp4.jpg</from>
+  <to>/home/gbarkhatov/Dropbox/img/Wallpapers/brookburling-paintedskies5.jpg</to>
+</transition>
+<static>
+  <duration>1795</duration>
+  <file>/home/gbarkhatov/Dropbox/img/Wallpapers/brookburling-paintedskies5.jpg</file>
+</static>
+<transition>
+  <duration>5</duration>
+  <from>/home/gbarkhatov/Dropbox/img/Wallpapers/brookburling-paintedskies5.jpg</from>
+  <to>/home/gbarkhatov/Dropbox/img/Wallpapers/panoramic_horizons2.jpg</to>
+</transition>
+<static>
+  <duration>1795</duration>
+  <file>/home/gbarkhatov/Dropbox/img/Wallpapers/panoramic_horizons2.jpg</file>
+</static>
+<transition>
+  <duration>5</duration>
+  <from>/home/gbarkhatov/Dropbox/img/Wallpapers/panoramic_horizons2.jpg</from>
+  <to>/home/gbarkhatov/Dropbox/img/Wallpapers/NewSunset (21).jpg</to>
+</transition>
+<static>
+  <duration>1795</duration>
+  <file>/home/gbarkhatov/Dropbox/img/Wallpapers/NewSunset (21).jpg</file>
+</static>
+<transition>
+  <duration>5</duration>
+  <from>/home/gbarkhatov/Dropbox/img/Wallpapers/NewSunset (21).jpg</from>
+  <to>/home/gbarkhatov/Dropbox/img/Wallpapers/NewSunset (11).jpg</to>
+</transition>
+<static>
+  <duration>1795</duration>
+  <file>/home/gbarkhatov/Dropbox/img/Wallpapers/NewSunset (11).jpg</file>
+</static>
+<transition>
+  <duration>5</duration>
+  <from>/home/gbarkhatov/Dropbox/img/Wallpapers/NewSunset (11).jpg</from>
+  <to>/home/gbarkhatov/Dropbox/img/Wallpapers/brookburling-paintedskies10.jpg</to>
+</transition>
+<static>
+  <duration>1795</duration>
+  <file>/home/gbarkhatov/Dropbox/img/Wallpapers/brookburling-paintedskies10.jpg</file>
+</static>
+<transition>
+  <duration>5</duration>
+  <from>/home/gbarkhatov/Dropbox/img/Wallpapers/brookburling-paintedskies10.jpg</from>
+  <to>/home/gbarkhatov/Dropbox/img/Wallpapers/NewSunset (3).jpg</to>
+</transition>
+<static>
+  <duration>1795</duration>
+  <file>/home/gbarkhatov/Dropbox/img/Wallpapers/NewSunset (3).jpg</file>
+</static>
+<transition>
+  <duration>5</duration>
+  <from>/home/gbarkhatov/Dropbox/img/Wallpapers/NewSunset (3).jpg</from>
+  <to>/home/gbarkhatov/Dropbox/img/Wallpapers/1 (7).jpg</to>
+</transition>
+<static>
+  <duration>1795</duration>
+  <file>/home/gbarkhatov/Dropbox/img/Wallpapers/1 (7).jpg</file>
+</static>
+<transition>
+  <duration>5</duration>
+  <from>/home/gbarkhatov/Dropbox/img/Wallpapers/1 (7).jpg</from>
+  <to>/home/gbarkhatov/Dropbox/img/Wallpapers/13_michaelbreitung_priest-cove.jpg</to>
+</transition>
+<static>
+  <duration>1795</duration>
+  <file>/home/gbarkhatov/Dropbox/img/Wallpapers/13_michaelbreitung_priest-cove.jpg</file>
+</static>
+<transition>
+  <duration>5</duration>
+  <from>/home/gbarkhatov/Dropbox/img/Wallpapers/13_michaelbreitung_priest-cove.jpg</from>
+  <to>/home/gbarkhatov/Dropbox/img/Wallpapers/dexxus_5652914929.jpg</to>
+</transition>
+<static>
+  <duration>1795</duration>
+  <file>/home/gbarkhatov/Dropbox/img/Wallpapers/dexxus_5652914929.jpg</file>
+</static>
+<transition>
+  <duration>5</duration>
+  <from>/home/gbarkhatov/Dropbox/img/Wallpapers/dexxus_5652914929.jpg</from>
+  <to>/home/gbarkhatov/Dropbox/img/Wallpapers/joshsommersbeach10.jpg</to>
+</transition>
+<static>
+  <duration>1795</duration>
+  <file>/home/gbarkhatov/Dropbox/img/Wallpapers/joshsommersbeach10.jpg</file>
+</static>
+</background>
