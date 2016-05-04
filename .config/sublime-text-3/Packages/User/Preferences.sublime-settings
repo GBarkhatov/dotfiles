@@ -1,0 +1,10 @@
+{
+	"color_scheme": "Packages/Darkula Color Scheme/darkula.tmTheme",
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"tab_size": 2,
+	"translate_tabs_to_spaces": true,
+	"word_wrap": true
+}
