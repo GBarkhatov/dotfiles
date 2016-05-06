@@ -24,3 +24,5 @@
 	ciam = commit -a -m
 [credential]
 	helper = cache
+[color]
+	ui = true
