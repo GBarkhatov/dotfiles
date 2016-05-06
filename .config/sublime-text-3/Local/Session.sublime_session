@@ -1,0 +1,461 @@
+{
+	"folder_history":
+	[
+		"/home/gbarkhatov/Dropbox/dev/projects/upwork-projects/ucroo/v3development",
+		"/home/gbarkhatov/Dropbox/dev/projects/upwork-projects/james-test"
+	],
+	"last_version": 3103,
+	"last_window_id": 3,
+	"log_indexing": false,
+	"settings":
+	{
+		"new_window_height": 0.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+				]
+			},
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 242.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"packlis",
+						"Package Control: List Packages"
+					],
+					[
+						"packin",
+						"Package Control: Install Package"
+					],
+					[
+						"ssjs",
+						"Set Syntax: JavaScript"
+					],
+					[
+						"complet",
+						"SublimeCodeIntel: Disable Live Autocompletion"
+					],
+					[
+						"packrem",
+						"Package Control: Remove Package"
+					],
+					[
+						"packre",
+						"Package Control: Remove Package"
+					],
+					[
+						"ter",
+						"Terminal: Open"
+					],
+					[
+						"packli",
+						"Package Control: List Packages"
+					],
+					[
+						"pack",
+						"Package Control: List Packages"
+					],
+					[
+						"packi",
+						"Package Control: List Packages"
+					]
+				],
+				"width": 529.0
+			},
+			"console":
+			{
+				"height": 126.0,
+				"history":
+				[
+					"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/home/gbarkhatov/Dropbox/dev/crack/subl+wsS.txt",
+				"/home/gbarkhatov/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+				"/home/gbarkhatov/.config/sublime-text-3/Packages/Default/Preferences.sublime-settings",
+				"/home/gbarkhatov/Dropbox/dev/projects/upwork-projects/james-test/public/scss/grid.scss",
+				"/home/gbarkhatov/Dropbox/dev/projects/upwork-projects/james-test/public/test.html",
+				"/home/gbarkhatov/.zshrc"
+			],
+			"find":
+			{
+				"height": 38.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"trim",
+					"x",
+					"gnome"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 23.0
+			},
+			"input":
+			{
+				"height": 0.0
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"replace":
+			{
+				"height": 42.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 500.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 380.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 150.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 0.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+				]
+			},
+			"buffers":
+			[
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 174.0,
+				"last_filter": "new file",
+				"selected_items":
+				[
+					[
+						"new file",
+						"ANF: New File"
+					],
+					[
+						"packin",
+						"Package Control: Install Package"
+					],
+					[
+						"packrem",
+						"Package Control: Remove Package"
+					],
+					[
+						"packre",
+						"Package Control: Remove Package"
+					],
+					[
+						"color",
+						"Color Picker"
+					],
+					[
+						"packlis",
+						"Package Control: List Packages"
+					],
+					[
+						"ssjs",
+						"Set Syntax: JavaScript"
+					],
+					[
+						"complet",
+						"SublimeCodeIntel: Disable Live Autocompletion"
+					],
+					[
+						"ter",
+						"Terminal: Open"
+					],
+					[
+						"packli",
+						"Package Control: List Packages"
+					],
+					[
+						"pack",
+						"Package Control: List Packages"
+					],
+					[
+						"packi",
+						"Package Control: List Packages"
+					]
+				],
+				"width": 485.0
+			},
+			"console":
+			{
+				"height": 126.0,
+				"history":
+				[
+					"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+				"/home/gbarkhatov/Dropbox/dev/projects/upwork-projects/ucroo/v3development",
+				"/home/gbarkhatov/Dropbox/dev/projects/upwork-projects/ucroo/v3development/src",
+				"/home/gbarkhatov/Dropbox/dev/projects/upwork-projects/ucroo/v3development/src/frontend",
+				"/home/gbarkhatov/Dropbox/dev/projects/upwork-projects/ucroo/v3development/src/frontend/app"
+			],
+			"file_history":
+			[
+				"/home/gbarkhatov/.config/sublime-text-3/Packages/User/ColorHighlighter.sublime-settings",
+				"/home/gbarkhatov/Dropbox/dev/projects/upwork-projects/ucroo/v3development/src/frontend/app/mixins.scss",
+				"/home/gbarkhatov/.config/sublime-text-3/Packages/Color Highlighter/ColorHighlighter.sublime-settings",
+				"/home/gbarkhatov/Dropbox/dev/crack/subl+wsS.txt",
+				"/home/gbarkhatov/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+				"/home/gbarkhatov/.config/sublime-text-3/Packages/Default/Preferences.sublime-settings",
+				"/home/gbarkhatov/Dropbox/dev/projects/upwork-projects/james-test/public/scss/grid.scss",
+				"/home/gbarkhatov/Dropbox/dev/projects/upwork-projects/james-test/public/test.html",
+				"/home/gbarkhatov/.zshrc"
+			],
+			"find":
+			{
+				"height": 38.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"trim",
+					"x",
+					"gnome"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"path": "/home/gbarkhatov/Dropbox/dev/projects/upwork-projects/ucroo/v3development"
+				}
+			],
+			"groups":
+			[
+				{
+					"sheets":
+					[
+					]
+				},
+				{
+					"sheets":
+					[
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 23.0
+			},
+			"input":
+			{
+				"height": 35.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					],
+					[
+						1,
+						0,
+						2,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					0.5,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"position": "0,1,0,0,0,0,0,0,0,1366,768",
+			"project": "",
+			"replace":
+			{
+				"height": 42.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"mixin.scs",
+						"src/frontend/app/mixins.scss"
+					],
+					[
+						"mixins.",
+						"src/frontend/app/mixins.scss"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 500.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 380.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 150.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 3,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}
