@@ -83,5 +83,6 @@ source $ZSH/oh-my-zsh.sh
 # Example aliases
 # alias zshconfig="mate ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
+alias subl3="/Applications/Sublime\ Text.app/Contents/SharedSupport/bin/subl"
 
 export DEFAULT_USER="gbarkhatov"
