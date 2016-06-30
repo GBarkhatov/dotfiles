@@ -5,9 +5,7 @@ export ZSH=/Users/gbarkhatov/.oh-my-zsh
 # Look in ~/.oh-my-zsh/themes/
 # Optionally, if you set this to "random", it'll load a random theme each
 # time that oh-my-zsh is loaded.
-# ZSH_THEME="robbyrussell"
 ZSH_THEME="agnoster"
-
 
 # Uncomment the following line to use case-sensitive completion.
 # CASE_SENSITIVE="true"
@@ -51,11 +49,12 @@ ZSH_THEME="agnoster"
 # Custom plugins may be added to ~/.oh-my-zsh/custom/plugins/
 # Example format: plugins=(rails git textmate ruby lighthouse)
 # Add wisely, as too many plugins slow down shell startup.
-# plugins=(git colored-man-pages)
+plugins=(git zsh-completions)
+autoload -U compinit && compinit
 
 # User configuration
 
-export PATH="/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/git/bin"
+# export PATH="/usr/bin:/bin:/usr/sbin:/sbin:$PATH"
 # export MANPATH="/usr/local/man:$MANPATH"
 
 source $ZSH/oh-my-zsh.sh
@@ -85,14 +84,4 @@ source $ZSH/oh-my-zsh.sh
 # alias zshconfig="mate ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
 
-export EDITOR=vim
 export DEFAULT_USER="gbarkhatov"
-alias subl3="/Applications/Sublime\ Text.app/Contents/SharedSupport/bin/subl"
-# alias brackets="/Applications/Brackets.app/Contents/Resources/brackets.sh"
-
-#syntax highlighting
-source /Users/gbarkhatov/.oh-my-zsh/custom/plugins/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
-
-#completions
-plugins+=(zsh-completions)
-autoload -U compinit && compinit
