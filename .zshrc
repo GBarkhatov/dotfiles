@@ -89,3 +89,6 @@ export DEFAULT_USER="gbarkhatov"
 
 export NVM_DIR=~/.nvm
 . $(brew --prefix nvm)/nvm.sh
+
+# npm install --global trash-cli
+alias rm=trash
