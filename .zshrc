@@ -84,7 +84,7 @@ source $ZSH/oh-my-zsh.sh
 # Example aliases
 # alias zshconfig="mate ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
-export EDITOR=subl3
+# export EDITOR=subl3
 export DEFAULT_USER="gbarkhatov"
 
 # syntax highlighting
