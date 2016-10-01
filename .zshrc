@@ -92,3 +92,6 @@ export DEFAULT_USER="gbarkhatov"
 
 # npm install --global trash-cli
 alias rm=trash
+
+# zsh syntax highlighting
+source /usr/local/share/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
