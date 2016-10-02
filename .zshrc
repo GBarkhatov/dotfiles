@@ -95,3 +95,6 @@ alias rm=trash
 
 # zsh syntax highlighting
 source /usr/local/share/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
+
+# git backup
+alias gitback="git checkout mbackup && git merge master && git push origin mbackup && git checkout master && git pull upstream master && gulp serve"
