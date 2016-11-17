@@ -3,6 +3,7 @@
 	email = gbarkhatov@gmail.com
 [core]
 	editor = nano
+	autocrlf = input
 [push]
   default = simple
 [alias]  
