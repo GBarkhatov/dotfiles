@@ -51,7 +51,9 @@ ZSH_THEME="pure"
 # Add wisely, as too many plugins slow down shell startup.
 plugins=(zsh-completions)
 autoload -U compinit && compinit
-autoload -U promptinit; promptinit
+autoload -U promptinit && promptinit
+# optionally define some options
+#PURE_CMD_MAX_EXEC_TIME=10
 prompt pure
 
 # User configuration
