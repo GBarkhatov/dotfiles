@@ -90,6 +90,7 @@ source $ZSH/oh-my-zsh.sh
 alias subl3="/Applications/Sublime\ Text.app/Contents/SharedSupport/bin/subl"
 
 export DEFAULT_USER=`whoami`
+export PATH="/usr/local/bin:/Users/gbarkhatov/.config/yarn/global/node_modules/.bin"
 
 alias tree='tree -I "node_modules|bower_components"'
 
