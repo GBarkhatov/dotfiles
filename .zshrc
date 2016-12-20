@@ -86,7 +86,7 @@ source $ZSH/oh-my-zsh.sh
 # alias ohmyzsh="mate ~/.oh-my-zsh"
 alias subl3="/Applications/Sublime\ Text.app/Contents/SharedSupport/bin/subl"
 
-# export DEFAULT_USER="gbarkhatov"
+export DEFAULT_USER=`whoami`
 
 #export NVM_DIR=~/.nvm
 #. $(brew --prefix nvm)/nvm.sh
