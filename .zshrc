@@ -52,6 +52,7 @@ ZSH_THEME="pure"
 plugins=(zsh-completions)
 autoload -U compinit && compinit
 autoload -U promptinit; promptinit
+prompt pure
 
 # User configuration
 
@@ -96,8 +97,8 @@ alias tree='tree -I "node_modules|bower_components"'
 # npm install --global trash-cli
 alias rm=trash
 
-# zsh syntax highlighting
-source /usr/local/share/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
-
 # git backup
 alias gitback="git checkout mbackup && git merge master && git push origin mbackup && git checkout master && git pull upstream master && git push origin master"
+
+# zsh syntax highlighting SHOULD BE VERY LAST THING THERE
+source /usr/local/share/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
