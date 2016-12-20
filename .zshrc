@@ -93,6 +93,7 @@ export DEFAULT_USER=`whoami`
 export PATH=$PATH:~/usr/local/bin:/Users/gbarkhatov/.config/yarn/global/node_modules/.bin
 
 alias tree='tree -I "node_modules|bower_components"'
+alias gpom='git push origin master'
 
 #export NVM_DIR=~/.nvm
 #. $(brew --prefix nvm)/nvm.sh
