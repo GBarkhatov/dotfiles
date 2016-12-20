@@ -10,7 +10,7 @@ module.exports = {
     cursorColor: 'rgba(255,255,255,0.7)',
 
     // `BEAM` for |, `UNDERLINE` for _, `BLOCK` for █
-    cursorShape: 'BLOCK',
+    cursorShape: 'BEAM',
 
     // color of the text
     foregroundColor: '#a9b7c6',
@@ -77,7 +77,7 @@ module.exports = {
     bell: 'SOUND',
 
     // if true, selected text will automatically be copied to the clipboard
-    copyOnSelect: false
+    copyOnSelect: true
 
     // URL to custom bell
     // bellSoundURL: 'http://example.com/bell.mp3',
