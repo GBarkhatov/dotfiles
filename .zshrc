@@ -88,6 +88,8 @@ alias subl3="/Applications/Sublime\ Text.app/Contents/SharedSupport/bin/subl"
 
 export DEFAULT_USER=`whoami`
 
+alias tree='tree -I "node_modules|bower_components"'
+
 #export NVM_DIR=~/.nvm
 #. $(brew --prefix nvm)/nvm.sh
 
