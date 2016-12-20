@@ -50,7 +50,8 @@ ZSH_THEME="pure"
 # Example format: plugins=(rails git textmate ruby lighthouse)
 # Add wisely, as too many plugins slow down shell startup.
 plugins=(zsh-completions)
-autoload -U compinit && compinit
+# autoload -U compinit && compinit
+autoload -U promptinit; promptinit
 
 # User configuration
 
