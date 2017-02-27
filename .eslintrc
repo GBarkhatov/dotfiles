@@ -1,1 +1,6 @@
-{"extends": ["standard", "standard-jsx"]}
+{
+  "extends": "airbnb",
+  "rules": {
+    "func-names": ["error", "never"]
+  }
+}
